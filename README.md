@@ -1,5 +1,5 @@
 # #301DaysOfCode
-This is #301DaysOfCode Repositoy
+This is #301DaysOfCode Repository
 
 ## Log
 
