@@ -6,3 +6,9 @@ This is #301DaysOfCode Repository
 ### **Day 1:** July 18, 2020
 
 **Today's Progress:** Started my #301DaysOfCode challenge and started my work with Web Development as a beginner.
+
+### **Day 2:** July 18, 2020
+
+**Today's Progress:** Completed a guided project named "Introduction to python" on Coursera, where I have covered all the basics of python.
+
+**Link To Certificate:** https://www.coursera.org/account/accomplishments/certificate/M8G5SCKAQ4Y8
