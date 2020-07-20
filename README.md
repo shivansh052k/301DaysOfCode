@@ -12,3 +12,7 @@ This is #301DaysOfCode Repository
 **Today's Progress:** Completed a guided project named "Introduction to python" on Coursera, where I have covered all the basics of python.
 
 **Link To Certificate:** https://www.coursera.org/account/accomplishments/certificate/M8G5SCKAQ4Y8
+
+### **Day 3:** July 20, 2020
+
+**Today's Progress:** Continued my Web development course and learned about working of HTML pages and Request/Response Cycle.
