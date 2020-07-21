@@ -16,3 +16,7 @@ This is #301DaysOfCode Repository
 ### **Day 3:** July 20, 2020
 
 **Today's Progress:** Continued my Web development course and learned about working of HTML pages and Request/Response Cycle.
+
+### **Day 4:** July 21, 2020
+
+**Today's Progress:** Earned my Java(Basic) Certificate from HackerRank.
