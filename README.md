@@ -22,3 +22,9 @@ This is #301DaysOfCode Repository
 **Today's Progress:** Earned my Java(Basic) Certificate from HackerRank.
 
 **Link To Certificate:** https://www.hackerrank.com/certificates/9b31d214efe3
+
+### **Day 5:** July 22, 2020
+
+**Today's Progress:** Learned about list comprehensions in Python
+
+**Link To My Work:** https://github.com/shivansh052k/Python-Programming-HackerRank
