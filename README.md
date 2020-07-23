@@ -28,3 +28,7 @@ This is #301DaysOfCode Repository
 **Today's Progress:** Learned about list comprehensions in Python
 
 **Link To My Work:** https://github.com/shivansh052k/Python-Programming-HackerRank
+
+### **Day 5:** July 22, 2020
+
+**Today's Progress:** Learned about Document Object Model[DOM], Tags, Syntaxes and Semantics in HTML5.
