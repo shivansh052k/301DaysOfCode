@@ -29,6 +29,6 @@ This is #301DaysOfCode Repository
 
 **Link To My Work:** https://github.com/shivansh052k/Python-Programming-HackerRank
 
-### **Day 5:** July 22, 2020
+### **Day 6:** July 23, 2020
 
 **Today's Progress:** Learned about Document Object Model[DOM], Tags, Syntaxes and Semantics in HTML5.
