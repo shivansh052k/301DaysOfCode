@@ -32,3 +32,7 @@ This is #301DaysOfCode Repository
 ### **Day 6:** July 23, 2020
 
 **Today's Progress:** Learned about Document Object Model[DOM], Tags, Syntaxes and Semantics in HTML5.
+
+### **Day 7:** July 24, 2020
+
+**Today's Progress:** Learned about Templates, Hyperlinks, Images and Tables in HTML5.
