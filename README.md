@@ -36,3 +36,7 @@ This is #301DaysOfCode Repository
 ### **Day 7:** July 24, 2020
 
 **Today's Progress:** Learned about Templates, Hyperlinks, Images and Tables in HTML5.
+
+### **Day 8:** July 25, 2020
+
+**Today's Progress:** Learned about  in HTML5.
