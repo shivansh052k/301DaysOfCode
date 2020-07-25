@@ -39,4 +39,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 8:** July 25, 2020
 
-**Today's Progress:** Learned about  in HTML5.
+**Today's Progress:** Learned about Validation of Code, Hosting and cPanel in HTML5.
