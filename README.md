@@ -40,3 +40,9 @@ This is #301DaysOfCode Repository
 ### **Day 8:** July 25, 2020
 
 **Today's Progress:** Learned about Validation of Code, Hosting and cPanel in HTML5.
+
+### **Day 9:** July 26, 2020
+
+**Today's Progress:** Done some code in HTML5 with most of the common used tags.
+
+**My Work:** https://github.com/shivansh052k/HTML5
