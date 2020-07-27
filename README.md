@@ -46,3 +46,9 @@ This is #301DaysOfCode Repository
 **Today's Progress:** Done some code in HTML5 with most of the common used tags.
 
 **My Work:** https://github.com/shivansh052k/HTML5
+
+### **Day 10:** July 27, 2020
+
+**Today's Progress:** Tags for inserting online icons using scripts and hyperlink
+
+**My Work:** https://github.com/shivansh052k/HTML5/blob/master/icon.html
