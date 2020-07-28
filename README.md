@@ -52,3 +52,9 @@ This is #301DaysOfCode Repository
 **Today's Progress:** Tags for inserting online icons using scripts and hyperlink
 
 **My Work:** https://github.com/shivansh052k/HTML5/blob/master/icon.html
+
+### **Day 11:** July 28, 2020
+
+**Today's Progress:** Successfully deployed a working webpage on the Web.
+
+**My Work:** https://shivansh052k.github.io/HTML5/project1.html
