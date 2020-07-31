@@ -67,3 +67,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Learned about the Box-Model and Advanced Styling in CSS3.
 
+### **Day 14:** July 31, 2020
+
+**Today's Progress:** Learned about advanced selectors and background images in CSS3.
