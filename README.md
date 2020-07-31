@@ -69,4 +69,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 14:** July 31, 2020
 
-**Today's Progress:** Learned about advanced selectors and background images in CSS3.
+**Today's Progress:** Learned about Advanced Selectors and Background Images in CSS3.
