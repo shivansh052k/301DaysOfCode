@@ -75,4 +75,4 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Modified a simple HTML web page using CSS.
 
-**My Work:** https://shivansh052k.github.io/HTML5-CSS3/Project1_2.html
+**My Work:** https://shivansh052k.github.io/HTML5-CSS3/Project2/Project1_2.html
