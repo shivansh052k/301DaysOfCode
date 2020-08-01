@@ -57,7 +57,7 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Successfully deployed a working webpage on the Web.
 
-**My Work:** https://shivansh052k.github.io/HTML5/project1.html
+**My Work:** https://shivansh052k.github.io/HTML5-CSS3/Project1_2.html
 
 ### **Day 12:** July 29, 2020
 
