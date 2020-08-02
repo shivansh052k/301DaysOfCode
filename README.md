@@ -77,7 +77,7 @@ This is #301DaysOfCode Repository
 
 **My Work:** https://shivansh052k.github.io/HTML5-CSS3/Project2/Project1_2.html
 
-### **Day 15:** August 1, 2020
+### **Day 16:** August 2, 2020
 
 **Today's Progress:** Practised advanced selectors in HTML5.
 
