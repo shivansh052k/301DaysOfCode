@@ -76,3 +76,9 @@ This is #301DaysOfCode Repository
 **Today's Progress:** Modified a simple HTML web page using CSS.
 
 **My Work:** https://shivansh052k.github.io/HTML5-CSS3/Project2/Project1_2.html
+
+### **Day 15:** August 1, 2020
+
+**Today's Progress:** Practised advanced selectors in HTML5.
+
+**My Work:** https://shivansh052k.github.io/HTML5-CSS3/Assignment2/History.html
