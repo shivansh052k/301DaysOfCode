@@ -82,3 +82,9 @@ This is #301DaysOfCode Repository
 **Today's Progress:** Practised advanced selectors in HTML5.
 
 **My Work:** https://shivansh052k.github.io/HTML5-CSS3/Assignment2/History.html
+
+### **Day 17:** August 3, 2020
+
+**Today's Progress:** Practised display elemnts using CSS3 on yesterday's webpage.
+
+**My Work:** https://shivansh052k.github.io/HTML5-CSS3/Assignment1/index.html
