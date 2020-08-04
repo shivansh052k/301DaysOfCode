@@ -88,3 +88,9 @@ This is #301DaysOfCode Repository
 **Today's Progress:** Practised display elements using CSS3 on yesterday's webpage.
 
 **My Work:** https://shivansh052k.github.io/HTML5-CSS3/Assignment1/index.html
+
+### **Day 18:** August 4, 2020
+
+**Today's Progress:** Practised out some Block Model problems in HTML5/CSS3.
+
+**My Work:** https://shivansh052k.github.io/HTML5-CSS3/BlockModel/display.html
