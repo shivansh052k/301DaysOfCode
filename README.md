@@ -94,3 +94,7 @@ This is #301DaysOfCode Repository
 **Today's Progress:** Practised out some Block Model problems in HTML5/CSS3.
 
 **My Work:** https://shivansh052k.github.io/HTML5-CSS3/BlockModel/display.html
+
+### **Day 19:** August 5, 2020
+
+**Today's Progress:** Practiced link styling and advance selectors in HTML/CSS.
