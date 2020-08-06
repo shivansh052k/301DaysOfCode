@@ -100,3 +100,7 @@ This is #301DaysOfCode Repository
 **Today's Progress:** Practiced link styling and advance selectors in HTML/CSS.
 
 **My Work:** https://shivansh052k.github.io/HTML5-CSS3/StyledLinks/StyledLinks.html
+
+### **Day 20:** August 6, 2020
+
+**Today's Progress:** Learned about pseudo classes and elements in CSS3.
