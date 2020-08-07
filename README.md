@@ -104,3 +104,7 @@ This is #301DaysOfCode Repository
 ### **Day 20:** August 6, 2020
 
 **Today's Progress:** Learned about pseudo classes and elements in CSS3.
+
+### **Day 20:** August 6, 2020
+
+**Today's Progress:** Learned about Transitions and positioning in CSS3.
