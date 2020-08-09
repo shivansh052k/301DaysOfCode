@@ -112,3 +112,7 @@ This is #301DaysOfCode Repository
 ### **Day 22:** August 8, 2020
 
 **Today's Progress:** Learned about Accessibility Designing in HTML/CSS.
+
+### **Day 23:** August 9, 2020
+
+**Today's Progress:** Learned about Accessibility Designing in HTML/CSS.
