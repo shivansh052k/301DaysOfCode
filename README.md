@@ -115,4 +115,6 @@ This is #301DaysOfCode Repository
 
 ### **Day 23:** August 9, 2020
 
-**Today's Progress:** Learned about Accessibility Designing in HTML/CSS.
+**Today's Progress:** Deployed three working web pages using HTML/CSS.
+
+**My Work:** https://shivansh052k.github.io/HTML5-CSS3/Assignment-3/index.html
