@@ -118,3 +118,9 @@ This is #301DaysOfCode Repository
 **Today's Progress:** Deployed three working web pages using HTML/CSS.
 
 **My Work:** https://shivansh052k.github.io/HTML5-CSS3/Assignment-3/index.html
+
+### **Day 24:** August 9, 2020
+
+**Today's Progress:** Deployed three working web pages using HTML/CSS.
+
+**My Work:** https://shivansh052k.github.io/HTML5-CSS3/Assignment-3/index.html
