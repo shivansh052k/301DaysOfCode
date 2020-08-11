@@ -123,6 +123,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Practised out transitions and transforms in CSS.
 
-### **Day 24:** August 10, 2020
+### **Day 25:** August 11, 2020
 
-**Today's Progress:** Practised out transitions and transforms in CSS.
+**Today's Progress:** Learned about table styling in CSS.
