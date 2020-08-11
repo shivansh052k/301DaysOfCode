@@ -122,3 +122,7 @@ This is #301DaysOfCode Repository
 ### **Day 24:** August 10, 2020
 
 **Today's Progress:** Practised out transitions and transforms in CSS.
+
+### **Day 24:** August 10, 2020
+
+**Today's Progress:** Practised out transitions and transforms in CSS.
