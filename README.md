@@ -126,3 +126,7 @@ This is #301DaysOfCode Repository
 ### **Day 25:** August 11, 2020
 
 **Today's Progress:** Learned about table styling in CSS.
+
+### **Day 25:** August 12, 2020
+
+**Today's Progress:** Learned how to create navigation menus in CSS3.
