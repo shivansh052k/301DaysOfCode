@@ -135,6 +135,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Implemented transitions in menus using CSS.
 
-### **Day 27:** August 13, 2020
+### **Day 28:** August 19, 2020
 
-**Today's Progress:** Implemented transitions in menus using CSS.
+**Today's Progress:** Implemented table styling concepts in CSS.
