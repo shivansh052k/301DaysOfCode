@@ -131,6 +131,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Learned how to create navigation menus in CSS3.
 
-### **Day 26:** August 12, 2020
+### **Day 27:** August 13, 2020
 
-**Today's Progress:** Learned how to create navigation menus in CSS3.
+**Today's Progress:** Implemented transitions in menus using CSS.
