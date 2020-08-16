@@ -144,3 +144,9 @@ This is #301DaysOfCode Repository
 **Today's Progress:** Styled out a calender in CSS3 using table styling.
 
 **My Work:** https://shivansh052k.github.io/HTML5-CSS3/Calender/Calender.html
+
+### **Day 30:** August 16, 2020
+
+**Today's Progress:** Practised Navigation Bar in CSS3.
+
+**My Work:** https://shivansh052k.github.io/HTML5-CSS3/Navigation%20Bar/NavigationBar.html
