@@ -157,6 +157,6 @@ This is #301DaysOfCode Repository
 
 **My Work:** https://shivansh052k.github.io/HTML5-CSS3/Navigation%20Bar/NavigationBar3.html
 
-### **Day 31:** August 17, 2020
+### **Day 32:** August 18, 2020
 
 **Today's Progress:** Practised table styling in HTML/CSS
