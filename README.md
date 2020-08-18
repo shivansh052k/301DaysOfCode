@@ -156,3 +156,9 @@ This is #301DaysOfCode Repository
 **Today's Progress:** Further practised Navigation Bar in HTML5/CSS3
 
 **My Work:** https://shivansh052k.github.io/HTML5-CSS3/Navigation%20Bar/NavigationBar3.html
+
+### **Day 31:** August 17, 2020
+
+**Today's Progress:** Further practised Navigation Bar in HTML5/CSS3
+
+**My Work:** https://shivansh052k.github.io/HTML5-CSS3/Navigation%20Bar/NavigationBar3.html
