@@ -159,4 +159,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 32:** August 18, 2020
 
-**Today's Progress:** Get started with Taableau
+**Today's Progress:** Started learning Tableau for data analytics.
