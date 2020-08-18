@@ -159,4 +159,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 32:** August 18, 2020
 
-**Today's Progress:** Practised table styling in HTML/CSS
+**Today's Progress:** Practised table styling in HTML/CSS.
