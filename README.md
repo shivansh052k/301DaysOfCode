@@ -165,3 +165,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Learned about Data Visualization in Tableau.
 
+### **Day 33:** August 19, 2020
+
+**Today's Progress:** Learned about Data Visualization in Tableau.
