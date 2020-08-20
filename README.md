@@ -167,4 +167,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 34:** August 20, 2020
 
-**Today's Progress:** Learned about Data Visualization in Tableau.
+**Today's Progress:** Learned about the anatomy of a Tableau Worksheet.
