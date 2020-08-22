@@ -172,3 +172,7 @@ This is #301DaysOfCode Repository
 ### **Day 35:** August 21, 2020
 
 **Today's Progress:** Learned about different charts and graphs in Tableau.
+
+### **Day 35:** August 21, 2020
+
+**Today's Progress:** Practiced data visualization by graphs in Tableau.
