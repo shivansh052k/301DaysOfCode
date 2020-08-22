@@ -176,3 +176,5 @@ This is #301DaysOfCode Repository
 ### **Day 36:** August 22, 2020
 
 **Today's Progress:** Practiced data visualization by graphs in Tableau.
+
+**My Work:** https://github.com/shivansh052k/Tableau/tree/master/Data%20Visualization/LAB-1
