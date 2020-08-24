@@ -183,6 +183,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Studied about Steganography in C/C++.
 
-### **Day 38:** August 23, 2020
+### **Day 38:** August 24, 2021
 
 **Today's Progress:** Revised and practised HTML5/CSS3.
