@@ -187,6 +187,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Revised and practised HTML5/CSS3.
 
-### **Day 38:** August 24, 2020
+### **Day 39:** August 24, 2020
 
 **Today's Progress:** Revised and practised HTML5/CSS3.
