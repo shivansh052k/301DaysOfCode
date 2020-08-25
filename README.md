@@ -189,4 +189,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 39:** August 25, 2020
 
-**Today's Progress:** Revised and practised HTML5/CSS3.
+**Today's Progress:** Got started with Java-Script.
