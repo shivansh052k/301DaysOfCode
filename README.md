@@ -191,6 +191,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Got started with Java-Script.
 
-### **Day 38:** August 26, 2020
+### **Day 40:** August 26, 2020
 
 **Today's Progress:** Learned about Variables in Java-Script.
