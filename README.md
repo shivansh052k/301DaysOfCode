@@ -197,4 +197,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 41:** August 27, 2020
 
-**Today's Progress:** Learned about Variables in Java-Script.
+**Today's Progress:** Learned about Data-Types in Java-Script.
