@@ -194,3 +194,7 @@ This is #301DaysOfCode Repository
 ### **Day 40:** August 26, 2020
 
 **Today's Progress:** Learned about Variables in Java-Script.
+
+### **Day 40:** August 26, 2020
+
+**Today's Progress:** Learned about Variables in Java-Script.
