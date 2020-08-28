@@ -199,6 +199,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Learned about Data-Types in Java-Script.
 
-### **Day 42:** August 27, 2020
+### **Day 42:** August 28, 2020
 
 **Today's Progress:** Learned about Data-Types in Java-Script.
