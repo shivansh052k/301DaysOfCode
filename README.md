@@ -203,6 +203,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Learned about Operators in Java-Script.
 
-### **Day 42:** August 28, 2020
+### **Day 43:** August 28, 2020
 
 **Today's Progress:** Learned about Operators in Java-Script.
