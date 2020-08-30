@@ -207,6 +207,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Learned about Expressions in Java-Script.
 
-### **Day 44:** August 29, 2020
+### **Day 44:** August 30, 2020
 
 **Today's Progress:** Learned about Expressions in Java-Script.
