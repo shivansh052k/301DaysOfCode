@@ -209,4 +209,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 44:** August 30, 2020
 
-**Today's Progress:** Learned about Expressions in Java-Script.
+**Today's Progress:** Created a single-page website in HTML/CSS.
