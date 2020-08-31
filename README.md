@@ -212,3 +212,7 @@ This is #301DaysOfCode Repository
 **Today's Progress:** Created a single-page website in HTML/CSS.
 
 **My Work:** https://shivansh052k.github.io/HTML5-CSS3/Travel_Page/Index.html
+
+### **Day 45:** August 30, 2020
+
+**Today's Progress:** .
