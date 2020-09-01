@@ -219,4 +219,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 46:** September 01, 2020
 
-**Today's Progress:** Learned about Functions in Java-Script.
+**Today's Progress:** Learned about Events in Java-Script.
