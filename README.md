@@ -216,3 +216,7 @@ This is #301DaysOfCode Repository
 ### **Day 45:** August 31, 2020
 
 **Today's Progress:** Learned about Functions in Java-Script.
+
+### **Day 45:** August 31, 2020
+
+**Today's Progress:** Learned about Functions in Java-Script.
