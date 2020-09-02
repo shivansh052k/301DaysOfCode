@@ -108,7 +108,7 @@ This is #301DaysOfCode Repository
 ### **Day 21:** August 7, 2020
 
 **Today's Progress:** Learned about Transitions and positioning in CSS3.
-
+.
 ### **Day 22:** August 8, 2020
 
 **Today's Progress:** Learned about Accessibility Designing in HTML/CSS.
