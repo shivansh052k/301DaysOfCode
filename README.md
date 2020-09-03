@@ -221,6 +221,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Learned about Events in Java-Script.
 
-### **Day 48:** September 01, 2020
+### **Day 47:** September 02, 2020
 
 **Today's Progress:** Prracticed some JS basics.
