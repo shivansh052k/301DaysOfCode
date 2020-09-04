@@ -228,3 +228,7 @@ This is #301DaysOfCode Repository
 ### **Day 48:** September 03, 2020
 
 **Today's Progress:** Made out a simple responsive page using JS.
+
+### **Day 49:** September 03, 2020
+
+**Today's Progress:** Made out a simple responsive page using JS.
