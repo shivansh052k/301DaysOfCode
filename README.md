@@ -224,3 +224,7 @@ This is #301DaysOfCode Repository
 ### **Day 47:** September 02, 2020
 
 **Today's Progress:** Prracticed some JS basics.
+
+### **Day 47:** September 02, 2020
+
+**Today's Progress:** Prracticed some JS basics.
