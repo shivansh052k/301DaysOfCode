@@ -232,3 +232,7 @@ This is #301DaysOfCode Repository
 ### **Day 49:** September 04, 2020
 
 **Today's Progress:** Studied about LSB concepts in C.
+
+### **Day :** September 04, 2020
+
+**Today's Progress:** Studied about LSB concepts in C.
