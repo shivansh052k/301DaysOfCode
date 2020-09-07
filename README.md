@@ -247,4 +247,4 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Learned Modifying DOM in JS.
 
-**My Work:** https://shivansh052k.github.io/JavaScript/EventBasic2/Index.html
+**My Work:** https://shivansh052k.github.io/JavaScript/Events_ModifyingDOM/Index.html
