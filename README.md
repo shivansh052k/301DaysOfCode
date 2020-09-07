@@ -242,3 +242,9 @@ This is #301DaysOfCode Repository
 **Today's Progress:** Practiced JS events.
 
 **My Work:** https://shivansh052k.github.io/JavaScript/EventBasic2/Index.html
+
+### **Day 51:** September 06, 2020
+
+**Today's Progress:** Practiced JS events.
+
+**My Work:** https://shivansh052k.github.io/JavaScript/EventBasic2/Index.html
