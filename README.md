@@ -237,6 +237,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Learned about JavaScript Arrays.
 
-### **Day 51:** September 05, 2020
+### **Day 51:** September 06, 2020
 
 **Today's Progress:** Learned about JavaScript Arrays.
