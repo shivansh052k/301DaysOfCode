@@ -257,4 +257,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 53:** September 08, 2020
 
-**Today's Progress:** Practised JS arrays
+**Today's Progress:**
