@@ -251,6 +251,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 52:** September 07, 2020
 
-**Today's Progress:** Learned Modifying DOM in JS.
-
-**My Work:** https://shivansh052k.github.io/JavaScript/Events_ModifyingDOM/Index.html
+**Today's Progress:** Practised JS arrays
