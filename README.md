@@ -249,6 +249,6 @@ This is #301DaysOfCode Repository
 
 **My Work:** https://shivansh052k.github.io/JavaScript/Events_ModifyingDOM/Index.html
 
-### **Day 51:** September 08, 2020
+### **Day 53:** September 08, 2020
 
 **Today's Progress:** Practised JS arrays
