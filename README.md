@@ -258,3 +258,7 @@ This is #301DaysOfCode Repository
 ### **Day 54:** September 09, 2020
 
 **Today's Progress:** Learned about JS iterations.
+
+### **Day 54:** September 09, 2020
+
+**Today's Progress:** Learned about JS iterations.
