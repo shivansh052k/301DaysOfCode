@@ -267,4 +267,4 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Practised out JS events
 
-**MY Work:** https://shivansh052k.github.io/JavaScript/Assignment_1/Index.html
+**My Work:** https://shivansh052k.github.io/JavaScript/Assignment_1/Index.html
