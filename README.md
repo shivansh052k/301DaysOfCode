@@ -265,4 +265,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 56:** September 11, 2020
 
-**Today's Progress:** Learned about JS FlowControl
+**Today's Progress:** P
