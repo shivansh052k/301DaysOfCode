@@ -271,4 +271,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 57:** September 12, 2020
 
-**Today's Progress:** Practised out JS events
+**Today's Progress:** 
