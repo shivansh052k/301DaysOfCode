@@ -272,5 +272,3 @@ This is #301DaysOfCode Repository
 ### **Day 57:** September 12, 2020
 
 **Today's Progress:** Practised out JS events
-
-**My Work:** https://shivansh052k.github.io/JavaScript/Assignment_1/Index.html
