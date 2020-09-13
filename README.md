@@ -268,3 +268,9 @@ This is #301DaysOfCode Repository
 **Today's Progress:** Practised out JS events
 
 **My Work:** https://shivansh052k.github.io/JavaScript/Assignment_1/Index.html
+
+### **Day 56:** September 11, 2020
+
+**Today's Progress:** Practised out JS events
+
+**My Work:** https://shivansh052k.github.io/JavaScript/Assignment_1/Index.html
