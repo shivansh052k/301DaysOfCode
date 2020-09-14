@@ -273,6 +273,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Practised out LSB in C.
 
-### **Day 57:** September 12, 2020
+### **Day 58:** September 12, 2020
 
 **Today's Progress:** Practised out LSB in C.
