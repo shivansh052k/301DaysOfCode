@@ -279,3 +279,9 @@ This is #301DaysOfCode Repository
 
 **My Work:** https://github.com/shivansh052k/JavaScript
 
+### **Day 58:** September 13, 2020
+
+**Today's Progress:** Practised JS If-Else.
+
+**My Work:** https://github.com/shivansh052k/JavaScript
+
