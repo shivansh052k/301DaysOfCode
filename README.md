@@ -282,3 +282,7 @@ This is #301DaysOfCode Repository
 ### **Day 59:** September 14, 2020
 
 **Today's Progress:**  Started learning about forms in JS.
+
+### **Day 59:** September 14, 2020
+
+**Today's Progress:**  Started learning about forms in JS.
