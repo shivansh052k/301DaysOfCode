@@ -285,4 +285,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 60:** September 15, 2020
 
-**Today's Progress:**  
+**Today's Progress:*  
