@@ -282,6 +282,3 @@ This is #301DaysOfCode Repository
 ### **Day 59:** September 14, 2020
 
 **Today's Progress:** Practised JS If-Else.
-
-**My Work:** 
-
