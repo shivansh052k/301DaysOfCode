@@ -291,6 +291,6 @@ This is #301DaysOfCode Repository
 
 ### **Day 61:** September 16, 2020
 
-**Today's Progress:** Practised more
+**Today's Progress:** Practised more Forms in JS.
 
 **My Work:** https://github.com/shivansh052k/JavaScript
