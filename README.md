@@ -289,8 +289,8 @@ This is #301DaysOfCode Repository
 
 **My Work:** https://github.com/shivansh052k/JavaScript
 
-### **Day 60:** September 15, 2020
+### **Day 61:** September 16, 2020
 
-**Today's Progress:** Practised Simple Form in JS.
+**Today's Progress:** Practised more
 
 **My Work:** https://github.com/shivansh052k/JavaScript
