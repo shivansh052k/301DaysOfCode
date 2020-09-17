@@ -295,6 +295,6 @@ This is #301DaysOfCode Repository
 
 **My Work:** https://github.com/shivansh052k/JavaScript/tree/master/Form_2
 
-### **Day 62:** September 16, 2020
+### **Day 62:** September 17, 2020
 
 **Today's Progress:** Practised more Forms in JS.
