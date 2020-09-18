@@ -301,4 +301,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 62:** September 17, 2020
 
-**Today's Progress:** Revised previous HTML/CSS concepts.
+**Today's Progress:** 
