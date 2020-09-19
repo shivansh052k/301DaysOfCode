@@ -299,6 +299,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Revised previous HTML/CSS concepts.
 
-### **Day 63:** September 17, 2020
+### **Day 63:** September 18, 2020
 
 **Today's Progress:** 
