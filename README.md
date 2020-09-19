@@ -301,8 +301,8 @@ This is #301DaysOfCode Repository
 
 ### **Day 63:** September 18, 2020
 
-**Today's Progress:** Learne about Form Validation in JS.
+**Today's Progress:** Learned about Form Validation in JS.
 
 ### **Day 63:** September 18, 2020
 
-**Today's Progress:** Learne about Form Check boxes in JS.
+**Today's Progress:** Learned about Form Check boxes in JS.
