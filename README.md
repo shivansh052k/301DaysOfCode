@@ -309,4 +309,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 65:** September 20, 2020
 
-**Today's Progress:** Learned about Form Check boxes in JS.
+**Today's Progress:** Practiced Out form validation in JS.
