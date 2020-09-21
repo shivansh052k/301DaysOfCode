@@ -315,6 +315,6 @@ This is #301DaysOfCode Repository
 
 ### **Day 66:** September 20, 2020
 
-**Today's Progress:** Practiced Out form validation in JS.
+**Today's Progress:** Started with FreeRTOS.
 
 **My Work:** https://github.com/shivansh052k/JavaScript/tree/master/Form_3
