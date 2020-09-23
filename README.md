@@ -323,4 +323,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 68:** September 23, 2020
 
-**Today's Progress:** Started with FreeRTOS.
+**Today's Progress:** Practised Checkboxes in JS.
