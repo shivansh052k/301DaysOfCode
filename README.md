@@ -317,10 +317,10 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Started with FreeRTOS.
 
-### **Day 66:** September 22, 2020
+### **Day 67:** September 22, 2020
 
 **Today's Progress:** Started with FreeRTOS.
 
-### **Day 66:** September 23, 2020
+### **Day 68:** September 23, 2020
 
 **Today's Progress:** Started with FreeRTOS.
