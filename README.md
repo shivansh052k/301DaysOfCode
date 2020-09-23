@@ -319,7 +319,7 @@ This is #301DaysOfCode Repository
 
 ### **Day 67:** September 22, 2020
 
-**Today's Progress:** Started with FreeRTOS.
+**Today's Progress:** Practised Forms in JS.
 
 ### **Day 68:** September 23, 2020
 
