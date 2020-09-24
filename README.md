@@ -327,6 +327,6 @@ This is #301DaysOfCode Repository
 
 **My Work:** https://github.com/shivansh052k/JavaScript/tree/master/Form_6
 
-### **Day 69:** September 23, 2020
+### **Day 69:** September 24, 2020
 
 **Today's Progress:**
