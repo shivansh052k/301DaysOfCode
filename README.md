@@ -330,5 +330,3 @@ This is #301DaysOfCode Repository
 ### **Day 68:** September 23, 2020
 
 **Today's Progress:** Practised Checkboxes in JS.
-
-**My Work:** https://github.com/shivansh052k/JavaScript/tree/master/Form_6
