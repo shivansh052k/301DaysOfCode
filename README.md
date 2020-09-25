@@ -333,4 +333,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 69:** September 24, 2020
 
-**Today's Progress:** Learnt about new Java Script Functions. 
+**Today's Progress:**
