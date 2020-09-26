@@ -334,3 +334,7 @@ This is #301DaysOfCode Repository
 ### **Day 70:** September 25, 2020
 
 **Today's Progress:** Learned about JQuery.
+
+### **Day 70:** September 25, 2020
+
+**Today's Progress:** Learned about JQuery.
