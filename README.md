@@ -338,3 +338,7 @@ This is #301DaysOfCode Repository
 ### **Day 71:** September 26, 2020
 
 **Today's Progress:** Learnt about JQuery selectors.
+
+### **Day 71:** September 26, 2020
+
+**Today's Progress:** Learnt about JQuery selectors.
