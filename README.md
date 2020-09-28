@@ -342,6 +342,7 @@ This is #301DaysOfCode Repository
 ### **Day 72:** September 27, 2020
 
 **Today's Progress:** Started making a login page in HTML/CSS
+
 ### **Day 72:** September 27, 2020
 
-**Today's Progress:** Started making a login page in HTML/CSS
+**Today's Progress:** 
