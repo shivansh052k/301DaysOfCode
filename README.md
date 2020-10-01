@@ -363,4 +363,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 75:** September 30, 2020
 
-**Today's Progress:** 
+**Today's Progress:** Created a responsive webpage.
