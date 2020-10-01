@@ -359,8 +359,8 @@ This is #301DaysOfCode Repository
 
 ### **Day 75:** September 30, 2020
 
-**Today's Progress:** Worling on responsive HTML/CSS webpage.
+**Today's Progress:** Working on responsive HTML/CSS webpage.
 
 ### **Day 75:** September 30, 2020
 
-**Today's Progress:** Worling on responsive HTML/CSS webpage.
+**Today's Progress:** 
