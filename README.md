@@ -361,6 +361,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Working on responsive HTML/CSS webpage.
 
-### **Day 76:** September 30, 2020
+### **Day 76:** October 01, 2020
 
 **Today's Progress:** Created a responsive webpage.
