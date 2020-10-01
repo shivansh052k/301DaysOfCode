@@ -360,6 +360,3 @@ This is #301DaysOfCode Repository
 ### **Day 74:** September 29, 2020
 
 **Today's Progress:** Made out a login page using HTML/CSS.
-
-**My Work:** https://shivansh052k.github.io/Assam_Hackathon/Main/LoginSignUp.html
-
