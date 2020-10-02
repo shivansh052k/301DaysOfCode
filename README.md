@@ -367,6 +367,6 @@ This is #301DaysOfCode Repository
 
 **My Work:** https://shivansh052k.github.io/Assam_Hackathon/Main/index.html
 
-### **Day 76:** October 01, 2020
+### **Day 76:** October 02, 2020
 
 **Today's Progress:** Learned about nginx on gcloud.
