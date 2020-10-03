@@ -370,3 +370,7 @@ This is #301DaysOfCode Repository
 ### **Day 77:** October 02, 2020
 
 **Today's Progress:** Learned about nginx on gcloud.
+
+### **Day 77:** October 02, 2020
+
+**Today's Progress:** Learned about nginx on gcloud.
