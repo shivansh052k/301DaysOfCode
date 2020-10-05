@@ -377,8 +377,8 @@ This is #301DaysOfCode Repository
 
 ### **Day 79:** October 04, 2020
 
-**Today's Progress:** deployed an VM instance through gcloud CL.
+**Today's Progress:** Deployed an VM instance through gcloud CL.
 
 ### **Day 80:** October 05, 2020
 
-**Today's Progress:** deployed an VM instance through gcloud CL.
+**Today's Progress:**  Perform Foundational Data, ML, and AI Tasks in Google Cloud
