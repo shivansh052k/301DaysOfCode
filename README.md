@@ -375,6 +375,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Learned about Kubernetes Engine in gcloud.
 
-### **Day 78:** October 03, 2020
+### **Day 79:** October 03, 2020
 
 **Today's Progress:** Learned about Kubernetes Engine in gcloud.
