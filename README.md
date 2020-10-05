@@ -378,3 +378,7 @@ This is #301DaysOfCode Repository
 ### **Day 79:** October 04, 2020
 
 **Today's Progress:** deployed an VM instance through gcloud CL.
+
+### **Day 79:** October 04, 2020
+
+**Today's Progress:** deployed an VM instance through gcloud CL.
