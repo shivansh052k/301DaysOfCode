@@ -383,6 +383,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:**  Perform Foundational Data, ML, and AI Tasks in Google Cloud
 
-### **Day 80:** October 05, 2020
+### **Day 80:** October 06, 2020
 
 **Today's Progress:**  Perform Foundational Data, ML, and AI Tasks in Google Cloud
