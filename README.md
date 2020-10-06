@@ -385,4 +385,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 80:** October 06, 2020
 
-**Today's Progress:**  Perform Foundational Data, ML, and AI Tasks in Google Cloud
+**Today's Progress:**  Studied Compiler Design.
