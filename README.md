@@ -386,3 +386,7 @@ This is #301DaysOfCode Repository
 ### **Day 81:** October 06, 2020
 
 **Today's Progress:**  Studied Compiler Design.
+
+### **Day 81:** October 06, 2020
+
+**Today's Progress:**  Studied Compiler Design.
