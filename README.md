@@ -387,6 +387,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:**  Studied Compiler Design.
 
-### **Day 82:** October 06, 2020
+### **Day 82:** October 07, 2020
 
 **Today's Progress:** Learned about bucket on gcloud.
