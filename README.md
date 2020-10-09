@@ -393,4 +393,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 82:** October 07, 2020
 
-**Today's Progress:** Learned about bucket on gcloud.
+**Today's Progress:** 
