@@ -397,4 +397,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 84:** October 09, 2020
 
-**Today's Progress:**
+**Today's Progress:** Learned about Cloud Functions on gcloud.
