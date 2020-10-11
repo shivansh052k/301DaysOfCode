@@ -405,4 +405,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 86:** October 11, 2020
 
-**Today's Progress:** Learned about cloud pub/sub on gcloud.
+**Today's Progress:**
