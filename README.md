@@ -406,3 +406,7 @@ This is #301DaysOfCode Repository
 ### **Day 86:** October 11, 2020
 
 **Today's Progress:** Learned about BigQuery on gcloud.
+
+### **Day 86:** October 11, 2020
+
+**Today's Progress:** Learned about BigQuery on gcloud.
