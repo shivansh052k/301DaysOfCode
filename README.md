@@ -411,6 +411,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Learned about Cloud Monitor on gcloud.
 
-# **Day 88:** October 12, 2020
+# **Day 88:** October 13, 2020
 
 **Today's Progress:**
