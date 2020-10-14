@@ -411,10 +411,10 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Learned about Cloud Monitor on gcloud.
 
-# **Day 88:** October 13, 2020
+### **Day 88:** October 13, 2020
 
 **Today's Progress:** Learned about kubernets on gcloud.
 
-# **Day 89:** October 14, 2020
+### **Day 89:** October 14, 2020
 
 **Today's Progress:** Got my skill badge on google cloud.
