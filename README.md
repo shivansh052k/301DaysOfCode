@@ -421,4 +421,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 89:** October 14, 2020
 
-**Today's Progress:** Got my skill badge on google cloud.
+**Today's Progress:** 
