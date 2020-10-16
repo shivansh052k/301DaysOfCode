@@ -422,3 +422,7 @@ This is #301DaysOfCode Repository
 ### **Day 90:** October 15, 2020
 
 **Today's Progress:** Learned about Cloud Monitoring APM.
+
+### **Day 91:** October 16, 2020
+
+**Today's Progress:** Completed the quest-4 challenge lab on gcloud.
