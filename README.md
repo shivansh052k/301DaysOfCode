@@ -429,7 +429,7 @@ This is #301DaysOfCode Repository
 
 ### **Day 92:** October 17, 2020
 
-**Today's Progress:** Completed the quest-4 challenge lab on gcloud.
+**Today's Progress:** 
 
 ### **Day 93:** October 18, 2020
 
