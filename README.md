@@ -435,6 +435,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Executed Cloud armor with LLB on gcloud.
 
-### **Day 93:** October 18, 2020
+### **Day 94:** October 18, 2020
 
 **Today's Progress:** 
