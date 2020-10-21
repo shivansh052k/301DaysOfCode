@@ -445,4 +445,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 95:** October 20, 2020
 
-**Today's Progress:** Completed the quest-6 challenge lab on qwiklabs for gcloud.
+**Today's Progress:** 
