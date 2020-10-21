@@ -445,4 +445,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 96:** October 21, 2020
 
-**Today's Progress:** 
+**Today's Progress:** Completed python quest on quicklabs.
