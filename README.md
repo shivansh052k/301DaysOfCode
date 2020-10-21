@@ -443,6 +443,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Completed the quest-6 challenge lab on qwiklabs for gcloud.
 
-### **Day 95:** October 20, 2020
+### **Day 96:** October 20, 2020
 
 **Today's Progress:** 
