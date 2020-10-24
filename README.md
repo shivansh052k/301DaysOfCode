@@ -453,4 +453,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 98:** October 23, 2020
 
-**Today's Progress:** 
+**Today's Progress:** Got my python badge on qwiklabs for gcloud.
