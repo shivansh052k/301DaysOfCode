@@ -451,6 +451,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Learned about Google Data Studio for gcloud.
 
-### **Day 97:** October 22, 2020
+### **Day 97:** October 23, 2020
 
 **Today's Progress:** 
