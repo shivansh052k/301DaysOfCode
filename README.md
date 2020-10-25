@@ -461,4 +461,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 100:** October 25, 2020
 
-**Today's Progress:** Started my IoT batch for qwiklabs.
+**Today's Progress:** 
