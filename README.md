@@ -465,4 +465,6 @@ This is #301DaysOfCode Repository
 
 ### **Day 101:** October 26, 2020
 
-**Today's Progress:** Learned about IoT pipeline on qwiklabs.
+**Today's Progress:** Earned my "Baseline: Data, ML, AI" batch on qwiklabs
+
+**Link:** https://google.qwiklabs.com/public_profiles/589d6ea3-6293-44c1-8bf4-2c66115b2ae9
