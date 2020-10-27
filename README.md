@@ -471,4 +471,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 101:** October 26, 2020
 
-**Today's Progress:** Earned my "Baseline: Data, ML, AI" batch on qwiklabs
+**Today's Progress:** 
