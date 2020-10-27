@@ -469,6 +469,6 @@ This is #301DaysOfCode Repository
 
 **Link:** https://google.qwiklabs.com/public_profiles/589d6ea3-6293-44c1-8bf4-2c66115b2ae9
 
-### **Day 101:** October 26, 2020
+### **Day 101:** October 27, 2020
 
 **Today's Progress:** 
