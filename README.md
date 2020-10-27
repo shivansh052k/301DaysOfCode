@@ -471,4 +471,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 102:** October 27, 2020
 
-**Today's Progress:** 
+**Today's Progress:** Completed "Engineer Data in Google Cloud: Challenge Lab" on qwiklabs.
