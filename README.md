@@ -475,4 +475,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 103:** October 28, 2020
 
-**Today's Progress:** Completed "" on qwiklabs.
+**Today's Progress:** Completed "Extract, Analyze, and Translate Text from Images with the Cloud ML APIs" on qwiklabs.
