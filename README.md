@@ -479,4 +479,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 104:** October 29, 2020
 
-**Today's Progress:**
+**Today's Progress:** Completed "Compare Cloud AI Platform Models using the What-If Tool to Identify Potential Bias" on qwiklabs.
