@@ -491,4 +491,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 107:** November 01, 2020
 
-**Today's Progress:** 
+**Today's Progress:** Completed my #30daysofgooglecloud challenge.
