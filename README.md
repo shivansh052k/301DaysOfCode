@@ -488,3 +488,7 @@ This is #301DaysOfCode Repository
 ### **Day 106:** October 31, 2020
 
 **Today's Progress:** Completed "Explore Machine Learning Models with Explainable AI: Challenge Lab" on qwiklabs.
+
+### **Day 106:** October 31, 2020
+
+**Today's Progress:** Completed "Explore Machine Learning Models with Explainable AI: Challenge Lab" on qwiklabs.
