@@ -503,4 +503,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 110:** November 04, 2020
 
-**Today's Progress:** 
+**Today's Progress:** Learned concepts about Machine Learning.
