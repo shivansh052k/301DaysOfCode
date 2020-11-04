@@ -501,6 +501,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Resvised File Management in C.
 
-### **Day 109:** November 04, 2020
+### **Day 110:** November 04, 2020
 
 **Today's Progress:** 
