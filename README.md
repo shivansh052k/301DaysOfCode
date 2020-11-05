@@ -507,4 +507,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 111:** November 05, 2020
 
-**Today's Progress:**
+**Today's Progress:** Revised Data structures concepts in C.
