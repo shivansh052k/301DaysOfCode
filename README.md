@@ -515,4 +515,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 112:** November 06, 2020
 
-**Today's Progress:** Continued revision of Data structures concepts(Linked List) in C.
+**Today's Progress:** 
