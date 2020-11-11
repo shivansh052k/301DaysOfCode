@@ -531,4 +531,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 116:** November 10, 2020
 
-**Today's Progress:** Given my Coding Round test for Linkedin Summer Internship.
+**Today's Progress:** 
