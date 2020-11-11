@@ -517,6 +517,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Revised Array in C/C++.
 
-### **Day 114:** November 07, 2020
+### **Day 114:** November 08, 2020
 
 **Today's Progress:** 
