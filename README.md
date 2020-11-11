@@ -523,4 +523,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 115:** November 09, 2020
 
-**Today's Progress:** Revised Queue in C/C++.
+**Today's Progress:** 
