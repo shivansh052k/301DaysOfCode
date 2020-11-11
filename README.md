@@ -525,6 +525,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Revised Linked List in C/C++.
 
-### **Day 115:** November 09, 2020
+### **Day 115:** November 10, 2020
 
 **Today's Progress:** Revised Linked List in C/C++.
