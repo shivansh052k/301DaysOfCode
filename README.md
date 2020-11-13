@@ -533,6 +533,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Revised tuples in Python.
 
-### **Day 117:** November 11, 2020
+### **Day 117:** November 12, 2020
 
 **Today's Progress:** Revised tuples in Python.
