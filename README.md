@@ -539,4 +539,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 118:** November 12, 2020
 
-**Today's Progress:** Revised HTML/CSS ans JS concepts for internship test. 
+**Today's Progress:** 
