@@ -544,3 +544,7 @@ This is #301DaysOfCode Repository
 ### **Day 120:** November 14, 2020
 
 **Today's Progress:** Revised advance HTML concepts.
+
+### **Day 120:** November 14, 2020
+
+**Today's Progress:** Revised advance HTML concepts.
