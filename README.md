@@ -543,4 +543,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 119:** November 13, 2020
 
-**Today's Progress:** Given my web developer intern coding test.
+**Today's Progress:** Revised advance HTML concepts.
