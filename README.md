@@ -547,4 +547,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 121:** November 15, 2020
 
-**Today's Progress:** Revised advance HTML concepts.
+**Today's Progress:** Started revising C++ concepts for my internship exam.
