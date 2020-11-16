@@ -549,6 +549,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Started revising C++ concepts for my internship exam.
 
-### **Day 121:** November 16, 2020
+### **Day 122:** November 16, 2020
 
 **Today's Progress:** Started my C++ badge on Hackerrank.
