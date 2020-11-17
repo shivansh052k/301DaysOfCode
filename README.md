@@ -557,6 +557,6 @@ This is #301DaysOfCode Repository
 
 ### **Day 123:** November 17, 2020
 
-**Today's Progress:** Started my C++ badge on Hackerrank.
+**Today's Progress:** 
 
 **Link:** https://www.hackerrank.com/shivanshgupta323
