@@ -560,3 +560,9 @@ This is #301DaysOfCode Repository
 **Today's Progress:** Recieved my 2nd star in C++ on Hackerrank.
 
 **Link:** https://www.hackerrank.com/shivanshgupta323
+
+### **Day 123:** November 17, 2020
+
+**Today's Progress:** Recieved my 2nd star in C++ on Hackerrank.
+
+**Link:** https://www.hackerrank.com/shivanshgupta323
