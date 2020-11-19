@@ -567,6 +567,6 @@ This is #301DaysOfCode Repository
 
 **Link:** https://github.com/shivansh052k/C-C-
 
-### **Day 124:** November 18, 2020
+### **Day 125:** November 18, 2020
 
 **Today's Progress:** Practised Advanced patterns in C++. 
