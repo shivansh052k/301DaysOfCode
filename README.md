@@ -563,10 +563,10 @@ This is #301DaysOfCode Repository
 
 ### **Day 124:** November 18, 2020
 
-**Today's Progress:** Pracised Advanced Switch in C++. 
+**Today's Progress:** Practised Advanced Switch in C++. 
 
 **Link:** https://github.com/shivansh052k/C-C-
 
 ### **Day 124:** November 18, 2020
 
-**Today's Progress:** Pracised Advanced Switch in C++. 
+**Today's Progress:** Practised Advanced patterns in C++. 
