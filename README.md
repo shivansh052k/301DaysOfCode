@@ -561,6 +561,6 @@ This is #301DaysOfCode Repository
 
 **Link:** https://www.hackerrank.com/shivanshgupta323
 
-### **Day 123:** November 17, 2020
+### **Day 123:** November 18, 2020
 
-**Today's Progress:** Revised Advanced Switch in C++. 
+**Today's Progress:** Pracised Advanced Switch in C++. 
