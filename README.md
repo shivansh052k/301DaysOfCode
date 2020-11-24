@@ -594,3 +594,9 @@ This is #301DaysOfCode Repository
 **Today's Progress:** Practised palindrome pattern in C++.
 
 **Link:** https://github.com/shivansh052k/C-C-
+
+### **Day 129:** November 23, 2020
+
+**Today's Progress:** Practised palindrome pattern in C++.
+
+**Link:** https://github.com/shivansh052k/C-C-
