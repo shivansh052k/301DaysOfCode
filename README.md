@@ -573,4 +573,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 126:** November 20, 2020
 
-**Today's Progress:** 
+**Today's Progress:** Practised advance function in C++.
