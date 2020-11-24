@@ -569,4 +569,8 @@ This is #301DaysOfCode Repository
 
 ### **Day 125:** November 19, 2020
 
-**Today's Progress:** Practised Advanced patterns in C++. 
+**Today's Progress:** Practised Advanced patterns in C++.
+
+### **Day 125:** November 19, 2020
+
+**Today's Progress:** Practised Advanced patterns in C++.
