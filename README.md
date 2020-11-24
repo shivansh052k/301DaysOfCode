@@ -576,3 +576,9 @@ This is #301DaysOfCode Repository
 **Today's Progress:** Practised advance function in C++.
 
 **Link:** https://github.com/shivansh052k/C-C-
+
+### **Day 126:** November 20, 2020
+
+**Today's Progress:** Practised advance function in C++.
+
+**Link:** https://github.com/shivansh052k/C-C-
