@@ -583,8 +583,8 @@ This is #301DaysOfCode Repository
 
 **Link:** https://github.com/shivansh052k/C-C-
 
-### **Day 127:** November 21, 2020
+### **Day 128:** November 22, 2020
 
-**Today's Progress:** Practised advance number pattern in C++.
+**Today's Progress:** Practised while loops in C++.
 
 **Link:** https://github.com/shivansh052k/C-C-
