@@ -600,3 +600,9 @@ This is #301DaysOfCode Repository
 **Today's Progress:** Practised Reverse pattern in C++.
 
 **Link:** https://github.com/shivansh052k/C-C-
+
+### **Day 130:** November 24, 2020
+
+**Today's Progress:** Practised Reverse pattern in C++.
+
+**Link:** https://github.com/shivansh052k/C-C-
