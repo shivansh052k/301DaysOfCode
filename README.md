@@ -615,4 +615,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 134:** November 27, 2020
 
-**Today's Progress:** Studied SDT in Compiler Design.
+**Today's Progress:** 
