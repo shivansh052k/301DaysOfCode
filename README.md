@@ -627,4 +627,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 137:** December 01, 2020
 
-**Today's Progress:** 
+**Today's Progress:** Completed Steganography code for minor.
