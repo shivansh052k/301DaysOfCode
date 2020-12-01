@@ -625,6 +625,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Studied Symbol Table in Compiler Design.
 
-### **Day 137:** November 30, 2020
+### **Day 137:** December 01, 2020
 
 **Today's Progress:** 
