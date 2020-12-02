@@ -631,4 +631,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 138:** December 01, 2020
 
-**Today's Progress:** Completed Steganography code in C/C++ for minor.
+**Today's Progress:** 
