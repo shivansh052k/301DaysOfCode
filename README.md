@@ -639,4 +639,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 139:** December 03, 2020
 
-**Today's Progress:** Got my Mern-Stack Development Internship
+**Today's Progress:**
