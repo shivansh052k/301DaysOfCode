@@ -640,3 +640,7 @@ This is #301DaysOfCode Repository
 ### **Day 140:** December 04, 2020
 
 **Today's Progress:** Studied Loop Optimization in Compiler Design.
+
+### **Day 140:** December 04, 2020
+
+**Today's Progress:** Studied Loop Optimization in Compiler Design.
