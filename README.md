@@ -647,4 +647,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 141:** December 05, 2020
 
-**Today's Progress:** Completed my minor code on Least Significant Bit (LSB) replaement in image by text.
+**Today's Progress:** 
