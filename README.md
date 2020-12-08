@@ -655,4 +655,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 144:** December 08, 2020
 
-**Today's Progress:** 
+**Today's Progress:** Implemented React-JS Functions.
