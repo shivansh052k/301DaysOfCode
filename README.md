@@ -653,6 +653,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Learned about basic npm commands.
 
-### **Day 144:** December 07, 2020
+### **Day 144:** December 08, 2020
 
 **Today's Progress:** 
