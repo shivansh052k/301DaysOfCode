@@ -664,3 +664,7 @@ This is #301DaysOfCode Repository
 **Today's Progress:** Implemented React-JS Class Components.
 
 **Link:** https://github.com/shivansh052k/ReactJS/tree/main/exp1
+
+### **Day 145:** December 09, 2020
+
+**Today's Progress:** Implemented React-JS Class Components.
