@@ -667,4 +667,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 145:** December 09, 2020
 
-**Today's Progress:** Implemented React-JS Class Components.
+**Today's Progress:** 
