@@ -665,6 +665,6 @@ This is #301DaysOfCode Repository
 
 **Link:** https://github.com/shivansh052k/ReactJS/tree/main/exp1
 
-### **Day 145:** December 10, 2020
+### **Day 146:** December 10, 2020
 
 **Today's Progress:** Learned about JSX in React-JS.
