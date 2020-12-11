@@ -671,4 +671,6 @@ This is #301DaysOfCode Repository
 
 ### **Day 147:** December 11, 2020
 
-**Today's Progress:** 
+**Today's Progress:** Started making a python code to find distortion in encoded images.
+
+**Link:** https://github.com/shivansh052k/ReactJS/tree/main/exp1
