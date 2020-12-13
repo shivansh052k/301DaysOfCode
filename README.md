@@ -683,4 +683,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 149:** December 13, 2020
 
-**Today's Progress:** 
+**Today's Progress:** Practiced OOAD for semester exam.
