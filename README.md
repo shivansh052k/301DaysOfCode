@@ -689,6 +689,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Completed OOAD course for end-semester exam.
 
-### **Day 150:** December 15, 2020
+### **Day 151:** December 15, 2020
 
 **Today's Progress:** Completed OOAD course for end-semester exam.
