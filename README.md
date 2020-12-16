@@ -693,6 +693,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Studied for End-Semester Exam.
 
-### **Day 151:** December 15, 2020
+### **Day 151:** December 16, 2020
 
 **Today's Progress:** 
