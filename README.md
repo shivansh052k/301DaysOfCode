@@ -697,6 +697,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Studied IoT for Industries for End-Semester Exam.
 
-### **Day 152:** December 16, 2020
+### **Day 152:** December 17, 2020
 
 **Today's Progress:** 
