@@ -704,3 +704,7 @@ This is #301DaysOfCode Repository
 ### **Day 153:** December 18, 2020
 
 **Today's Progress:** Completed whole course of Compiler Design for End-Semester Exam.
+
+### **Day 153:** December 18, 2020
+
+**Today's Progress:** Completed whole course of Compiler Design for End-Semester Exam.
