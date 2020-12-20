@@ -711,4 +711,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 154:** December 19, 2020
 
-**Today's Progress:** Studied Real-Time Operating System for exam.
+**Today's Progress:** 
