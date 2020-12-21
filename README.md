@@ -715,4 +715,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 156:** December 21, 2020
 
-**Today's Progress:** 
+**Today's Progress:** Studied full syllabus of RTOS for endsem.
