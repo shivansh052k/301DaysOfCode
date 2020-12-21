@@ -715,4 +715,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 155:** December 21, 2020
 
-**Today's Progress:** Studied Bartley's Algorithm in RTOS.
+**Today's Progress:** 
