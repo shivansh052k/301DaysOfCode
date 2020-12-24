@@ -727,4 +727,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 158:** December 24, 2020
 
-**Today's Progress:** Completed Descreptive Analytics of IOT for endsemester exam.
+**Today's Progress:** 
