@@ -727,4 +727,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 159:** December 24, 2020
 
-**Today's Progress:** 
+**Today's Progress:** Studied Mern stack development.
