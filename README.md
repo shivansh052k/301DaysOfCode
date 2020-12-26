@@ -732,3 +732,7 @@ This is #301DaysOfCode Repository
 ### **Day 160:** December 25, 2020
 
 **Today's Progress:** Practised React.js
+
+### **Day 160:** December 25, 2020
+
+**Today's Progress:** Practised React.js
