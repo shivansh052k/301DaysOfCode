@@ -739,4 +739,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 162:** December 27, 2020
 
-**Today's Progress:** Practised React.js
+**Today's Progress:** 
