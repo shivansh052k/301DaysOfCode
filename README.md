@@ -757,6 +757,6 @@ This is #301DaysOfCode Repository
 
 ### **Day 165:** December 30, 2020
 
-**Today's Progress:** Implemented React.js to make a About Us page for my internship.
+**Today's Progress:** 
 
 **Link: ** https://github.com/Hardik121020/React-JS/tree/main/About-Us
