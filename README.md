@@ -761,7 +761,7 @@ This is #301DaysOfCode Repository
 
 **Link: ** https://github.com/Hardik121020/React-JS/tree/main/About-Us
 
-### **Day 167:** December 31, 2020
+### **Day 167:** January 1, 2021
 
 **Today's Progress:** 
 
