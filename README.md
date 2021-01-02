@@ -767,4 +767,6 @@ This is #301DaysOfCode Repository
 
 ### **Day 168:** January 2, 2021
 
-**Today's Progress:** 
+**Today's Progress:** Deployed the Privacy Policy Page.
+
+**Link:** https://github.com/shivansh052k/ReactJS/tree/main/Privacy-Policy
