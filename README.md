@@ -765,6 +765,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Completed a Privacy Policy page for website.
 
-### **Day 167:** January 1, 2021
+### **Day 167:** January 2, 2021
 
 **Today's Progress:** 
