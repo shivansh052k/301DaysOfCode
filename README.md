@@ -779,6 +779,8 @@ This is #301DaysOfCode Repository
 
 ### **Day 170:** January 4, 2021
 
-**Today's Progress:** 
+**Today's Progress:** Started making a new page for website with react.js
+
+**Link:** https://github.com/shivansh052k/ReactJS/tree/main/Privacy-Policy
 
 **Link:** https://github.com/shivansh052k/ReactJS/tree/main/Privacy-Policy
