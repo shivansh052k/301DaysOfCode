@@ -793,7 +793,7 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Continued coding Plans nd Pricing page for website with react.js
 
-### **Day 173:** January 8, 2021
+### **Day 174:** January 8, 2021
 
 **Today's Progress:** Completed Plans and Pricing Page for website.
 
