@@ -799,6 +799,6 @@ This is #301DaysOfCode Repository
 
 **Link:** https://github.com/shivansh052k/ReactJS/tree/main/Plans
 
-### **Day 174:** January 8, 2021
+### **Day 174:** January 9, 2021
 
 **Today's Progress:** Completed Plans and Pricing Page for website.
