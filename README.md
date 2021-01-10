@@ -802,3 +802,7 @@ This is #301DaysOfCode Repository
 ### **Day 175:** January 9, 2021
 
 **Today's Progress:** Started a new blogs page for website using react.js
+
+### **Day 175:** January 9, 2021
+
+**Today's Progress:** Started a new blogs page for website using react.js
