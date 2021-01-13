@@ -816,3 +816,7 @@ This is #301DaysOfCode Repository
 **Today's Progress:** Completed Blogs page using react.js for the website
 
 **Link:** https://github.com/shivansh052k/ReactJS/
+
+### **Day 179:** January 13, 2021
+
+**Today's Progress:** Completed Blogs page using react.js for the website
