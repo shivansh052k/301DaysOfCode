@@ -820,3 +820,7 @@ This is #301DaysOfCode Repository
 ### **Day 179:** January 13, 2021
 
 **Today's Progress:** Done some editing in Blogs page using react.js for the website
+
+### **Day 179:** January 13, 2021
+
+**Today's Progress:** Done some editing in Blogs page using react.js for the website
