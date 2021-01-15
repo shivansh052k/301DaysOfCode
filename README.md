@@ -827,4 +827,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 180:** January 14, 2021
 
-**Today's Progress:** Started a new Success Stories page using react.js for the website
+**Today's Progress:** 
