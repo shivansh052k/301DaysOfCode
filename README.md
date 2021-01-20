@@ -63,7 +63,7 @@ This is #301DaysOfCode Repository
 
 ### **Day 12:** July 29, 2020
 
-**Today's Progress:** Starded with the basics of CSS3.
+**Today's Progress:** Starded with the basics of CSS3
 
 ### **Day 13:** July 30, 2020
 
