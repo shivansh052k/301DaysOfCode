@@ -849,8 +849,8 @@ This is #301DaysOfCode Repository
 
 ### **Day 186:** January 20, 2021
 
-**Today's Progress:** 
+**Today's Progress:** Completed the Website for the Internship
 
 ### **Day 187:** January 21, 2021
 
-**Today's Progress:** 
+**Today's Progress:** Done some editing and studied about MongoDB for the website.
