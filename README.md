@@ -865,12 +865,12 @@ This is #301DaysOfCode Repository
 
 ### **Day 190:** January 24, 2021
 
-**Today's Progress:** 
+**Today's Progress:** Presented the website infront of the instructore, and made changes in it.
 
 ### **Day 191:** January 25, 2021
 
-**Today's Progress:** 
+**Today's Progress:** Extended my LSB code in C to find trend between image distortion.
 
 ### **Day 192:** January 26, 2021
 
-**Today's Progress:** 
+**Today's Progress:** Completed my LSB code and submitted for the research paper.
