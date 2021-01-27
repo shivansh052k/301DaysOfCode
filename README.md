@@ -877,4 +877,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 192:** January 26, 2021
 
-**Today's Progress:** Completed my LSB code and submitted for the research paper.
+**Today's Progress:** 
