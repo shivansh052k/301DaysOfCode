@@ -881,4 +881,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 193:** January 27, 2021
 
-**Today's Progress:** Studied further things to complete the research paper.
+**Today's Progress:** 
