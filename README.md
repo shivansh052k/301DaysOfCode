@@ -881,4 +881,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 194:** January 28, 2021
 
-**Today's Progress:** 
+**Today's Progress:** Studied Image Distortion in LSB.
