@@ -886,3 +886,7 @@ This is #301DaysOfCode Repository
 ### **Day 195:** January 29, 2021
 
 **Today's Progress:** Started making a python code to measure PSNR values of the distorted images.
+
+### **Day 195:** January 29, 2021
+
+**Today's Progress:** Started making a python code to measure PSNR values of the distorted images.
