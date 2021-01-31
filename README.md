@@ -889,8 +889,8 @@ This is #301DaysOfCode Repository
 
 ### **Day 196:** January 30, 2021
 
-**Today's Progress:** Compleeted the above code.
+**Today's Progress:** Completed the above code.
 
 ### **Day 197:** January 31, 2021
 
-**Today's Progress:** Compleeted the above code.
+**Today's Progress:** Tested and editied the above code with some bmp images.
