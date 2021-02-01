@@ -895,6 +895,6 @@ This is #301DaysOfCode Repository
 
 **Today's Progress:** Tested and editied the above code with some bmp images.
 
-### **Day 198:** January 31, 2021
+### **Day 198:** February 01, 2021
 
 **Today's Progress:** Finally completed and submitted the image distortion code in python.
