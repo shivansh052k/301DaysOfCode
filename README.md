@@ -901,6 +901,6 @@ This is #301DaysOfCode Repository
 
 **Link:** https://github.com/shivansh052k/Minor_1
 
-### **Day 198:** February 02, 2021
+### **Day 199:** February 02, 2021
 
 **Today's Progress:** Finally completed and submitted the image distortion code in python.
