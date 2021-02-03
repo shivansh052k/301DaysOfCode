@@ -908,3 +908,5 @@ This is #301DaysOfCode Repository
 ### **Day 200:** February 03, 2021
 
 **Today's Progress:** Coded all primiteves in OpenGL for Computer Graphics
+
+**Link:** https://github.com/shivansh052k/Computer_Graphics/tree/main/Lab_1
