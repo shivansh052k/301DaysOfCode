@@ -907,4 +907,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 200:** February 03, 2021
 
-**Today's Progress:** Submitted the image distortion research paper to the mentor.
+**Today's Progress:** Coded all primiteves in OpenGL for Computer Graphics
