@@ -911,6 +911,6 @@ This is #301DaysOfCode Repository
 
 **Link:** https://github.com/shivansh052k/Computer_Graphics/tree/main/Lab_1
 
-### **Day 200:** February 03, 2021
+### **Day 201:** February 04, 2021
 
-**Today's Progress:** Studied about contour in Machine Learning.
+**Today's Progress:** Studied about contour plot graph in Machine Learning.
