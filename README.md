@@ -929,8 +929,8 @@ This is #301DaysOfCode Repository
 
 ### **Day 205:** February 08, 2021
 
-**Today's Progress:** 
+**Today's Progress:** Continued working with firebase.
 
 ### **Day 206:** February 09, 2021
 
-**Today's Progress:** 
+**Today's Progress:** Done some editing work in the website pages.
