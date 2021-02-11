@@ -941,4 +941,4 @@ This is #301DaysOfCode Repository
 
 ### **Day 208:** February 11, 2021
 
-**Today's Progress:** Continued editing work in the website pages.
+**Today's Progress:** 
